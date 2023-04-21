@@ -1,0 +1,54 @@
+.common{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header{
+    text-align: center;
+    background-color: wheat;
+    color: black;
+    height: 100px;
+    line-height: 100px;
+}
+.mainbody{
+    background-color: whitesmoke;
+    text-align: center;
+}
+.footer{
+    height: 25px;
+    background-color: black;
+    color: white;
+    line-height: 25px;
+    position: fixed;
+    bottom: 0px;
+    left: 5px;
+    right: 5px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+nav{
+    background-color: lightgray;
+    padding: 10px;
+    overflow: hidden;
+}
+.tableauPlaceholder{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+.emphasizedtext{
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    list-style-position: inside;
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+  }
